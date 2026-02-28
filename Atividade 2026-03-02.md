@@ -33,9 +33,11 @@
 > git log
 >
 >git log --oneline (versão resumida)
-7. Linkar diretório da sua máquina com repositório online:
-> git remote add origin (OU NOME SUGERIDO PELO GITHUB) LINK DO REPOSITÓRIO REMOTO
+7. Linkar diretório da sua máquina com repositório  (seguir a ordem):
+>Primeiro: git branch -M main
+> 
+>Segundo: git remote add origin (OU NOME SUGERIDO PELO GITHUB) LINK DO REPOSITÓRIO REMOTO
 >
->git push origin (OU NOME SUGERIDO PELO GITHUB) main (branch escolhida)
+>Terceiro: git push origin (OU NOME SUGERIDO PELO GITHUB) main (branch escolhida)
 >
-    - Detalhe: branch é uma linha de desenvolvimento independente que permite mudanças sem alterar o código-base central. Main é considerada a branch primária que contém o código-base, convencionalmente.
+    - Detalhe: branch é uma linha de desenvolvimento independente que permite mudanças sem alterar o código-base central. Main é considerada a branch primária que contém o código-base, convencionalmente.7
