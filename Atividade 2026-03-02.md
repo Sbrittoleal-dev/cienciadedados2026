@@ -40,4 +40,4 @@
 >
 >Terceiro: git push origin (OU NOME SUGERIDO PELO GITHUB) main (branch escolhida)
 >
-    - Detalhe: branch é uma linha de desenvolvimento independente que permite mudanças sem alterar o código-base central. Main é considerada a branch primária que contém o código-base, convencionalmente.7
+    - Detalhe: branch é uma linha de desenvolvimento independente que permite mudanças sem alterar o código-base central. Main é considerada a branch primária que contém o código-base, convencionalmente.
